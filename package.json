@@ -1,0 +1,15 @@
+{
+  "engines": {
+    "node": "^23.3.0",
+    "npm": "^10.9.0"
+  },
+  "dependencies": {
+    "browser-sync": "^3.0.3"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5"
+  },
+  "scripts": {
+    "start": "node --watch app.js & npx browser-sync start --config bs-config.js"
+  }
+}
