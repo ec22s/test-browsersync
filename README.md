@@ -26,7 +26,7 @@ npm run start
 - Open `sub/test.html` in browser, edit it and page will be reloaded.
 
 ### Limitation
-- CSS file changes are ignored.
+- Editing CSS file (if present) doesn't reload browser.
 
   https://github.com/BrowserSync/browser-sync/issues/1640
 
