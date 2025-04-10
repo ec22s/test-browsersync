@@ -1,3 +1,6 @@
+This repository was upgraded to https://github.com/ec22s/docker-node-browsersync and archived. (Apr 10, 2025)
+
+
 # test-browsersync
 A simple test for Node.js watch with BrowserSync.
 
